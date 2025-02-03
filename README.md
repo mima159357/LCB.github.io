@@ -1,1 +1,1 @@
-# LCB.github.io
+# lcb.github.io
